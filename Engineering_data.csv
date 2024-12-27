@@ -1,0 +1,265 @@
+EmployeeID,Department,Salary,Tenure,Attrition,PerformanceRating,Age,Gender,JoiningDate,EducationLevel
+3,Engineering,44969,56,No,3,32,Male,04-11-2023,Master
+6,Engineering,47450,95,No,2,58,Male,06-02-2019,Bachelor
+15,Engineering,53276,26,No,3,46,Male,25-10-2021,High School
+23,Engineering,103056,84,No,4,22,Male,01-11-2015,High School
+30,Engineering,101126,76,No,4,57,Male,23-12-2022,Bachelor
+51,Engineering,94801,42,Yes,4,22,Female,23-10-2022,Bachelor
+55,Engineering,75607,44,No,2,36,Male,21-05-2019,Master
+58,Engineering,98085,14,No,2,53,Female,03-04-2021,Master
+63,Engineering,88348,59,No,3,23,Female,01-07-2017,Master
+64,Engineering,89997,57,No,1,55,Male,19-11-2018,Bachelor
+70,Engineering,83352,89,Yes,1,31,Female,06-03-2016,Bachelor
+76,Engineering,72432,103,No,1,35,Male,05-07-2020,Bachelor
+77,Engineering,94142,97,No,1,50,Male,01-08-2022,Bachelor
+86,Engineering,95844,50,No,3,39,Male,17-06-2020,Master
+88,Engineering,92379,17,No,1,22,Male,26-02-2019,Bachelor
+94,Engineering,104643,84,No,4,47,Female,22-12-2019,High School
+95,Engineering,97274,47,No,2,28,Male,26-05-2016,Bachelor
+99,Engineering,101258,61,No,4,47,Male,20-08-2024,Doctorate
+104,Engineering,102210,117,No,5,53,Male,28-04-2020,High School
+107,Engineering,44254,61,No,4,37,Male,11-02-2021,Doctorate
+108,Engineering,89951,69,No,5,46,Male,22-04-2023,Bachelor
+114,Engineering,81189,79,Yes,4,41,Female,23-08-2015,Bachelor
+117,Engineering,62668,117,No,2,33,Male,28-03-2020,Doctorate
+124,Engineering,53149,115,No,4,33,Male,15-11-2017,Doctorate
+128,Engineering,43222,36,No,1,25,Male,19-05-2021,Bachelor
+136,Engineering,59917,36,No,4,53,Female,13-04-2016,Bachelor
+139,Engineering,119010,40,No,2,36,Male,02-11-2022,Bachelor
+153,Engineering,63013,67,No,2,52,Female,23-10-2019,Bachelor
+156,Engineering,115155,74,Yes,4,51,Female,29-01-2020,Bachelor
+162,Engineering,44091,17,No,3,41,Female,10-04-2022,Bachelor
+168,Engineering,45158,26,Yes,2,55,Male,07-08-2023,Bachelor
+171,Engineering,92490,107,No,3,55,Female,29-01-2022,Master
+179,Engineering,71594,102,No,3,59,Male,06-10-2015,Bachelor
+180,Engineering,94995,46,No,4,55,Female,04-12-2023,Bachelor
+184,Engineering,71154,32,No,3,51,Female,14-10-2018,Bachelor
+185,Engineering,115225,55,No,3,26,Male,25-01-2023,Master
+192,Engineering,92701,23,No,4,35,Male,16-10-2015,Doctorate
+200,Engineering,106978,15,No,4,57,Male,24-04-2023,Bachelor
+204,Engineering,96794,115,No,4,55,Male,28-05-2020,Master
+207,Engineering,92848,16,No,5,50,Female,04-02-2015,Bachelor
+215,Engineering,105666,75,Yes,2,52,Male,17-10-2024,Bachelor
+224,Engineering,54391,67,Yes,5,36,Male,11-06-2018,Bachelor
+225,Engineering,52934,54,No,4,23,Female,05-02-2024,Bachelor
+232,Engineering,48711,59,Yes,5,27,Female,20-08-2018,Master
+239,Engineering,105205,67,No,2,22,Female,10-06-2015,Bachelor
+241,Engineering,42450,60,Yes,4,40,Male,31-05-2018,High School
+243,Engineering,95301,104,No,3,60,Female,31-10-2019,Doctorate
+247,Engineering,87710,32,No,4,41,Female,18-01-2015,Doctorate
+249,Engineering,97065,39,No,4,27,Female,03-12-2016,High School
+256,Engineering,81688,60,No,4,42,Female,10-09-2021,Bachelor
+262,Engineering,91287,66,No,3,52,Female,15-08-2021,Master
+264,Engineering,59701,87,Yes,1,26,Male,23-05-2020,Bachelor
+274,Engineering,90720,17,No,5,25,Female,18-12-2017,Bachelor
+277,Engineering,96405,70,No,4,51,Male,05-12-2019,Bachelor
+278,Engineering,59691,114,No,1,53,Female,13-01-2024,Bachelor
+280,Engineering,93050,87,Yes,4,24,Female,25-01-2021,Bachelor
+286,Engineering,116283,72,No,5,26,Male,03-03-2019,Bachelor
+290,Engineering,52452,88,No,4,27,Male,20-11-2024,Master
+292,Engineering,104813,42,Yes,4,43,Female,16-05-2023,Doctorate
+293,Engineering,74679,97,No,3,55,Male,08-04-2019,Bachelor
+294,Engineering,60027,94,Yes,5,34,Female,17-01-2019,Bachelor
+295,Engineering,95401,88,Yes,2,45,Female,03-02-2020,Bachelor
+296,Engineering,51920,89,No,4,27,Female,30-10-2022,Bachelor
+299,Engineering,91795,113,No,1,31,Female,17-11-2022,Bachelor
+302,Engineering,59648,37,No,2,49,Female,05-01-2020,Master
+305,Engineering,83022,103,No,2,52,Male,05-05-2023,Bachelor
+310,Engineering,83106,76,No,5,26,Female,14-04-2016,Master
+312,Engineering,79146,90,No,5,49,Female,22-08-2017,Bachelor
+319,Engineering,52880,36,Yes,2,47,Female,30-09-2021,Doctorate
+322,Engineering,68779,65,Yes,1,34,Male,21-01-2023,Master
+323,Engineering,81892,32,No,3,49,Male,02-01-2019,Bachelor
+325,Engineering,40738,82,No,3,23,Male,24-12-2023,Bachelor
+329,Engineering,44414,81,No,3,27,Male,05-09-2021,Bachelor
+332,Engineering,87387,18,No,1,55,Male,08-02-2016,Master
+333,Engineering,71155,75,No,5,49,Male,16-06-2020,Bachelor
+334,Engineering,94353,105,No,1,35,Male,08-01-2017,Bachelor
+342,Engineering,99814,26,No,4,30,Male,12-10-2015,Bachelor
+346,Engineering,77231,57,No,3,24,Female,24-10-2015,Master
+352,Engineering,45184,62,No,3,42,Female,20-10-2017,Bachelor
+354,Engineering,93966,115,Yes,1,36,Male,06-09-2018,Bachelor
+358,Engineering,119855,16,No,3,59,Male,29-05-2024,High School
+363,Engineering,106797,54,Yes,3,55,Female,22-06-2017,Master
+371,Engineering,59022,116,No,3,52,Female,12-09-2016,Bachelor
+378,Engineering,79240,60,Yes,2,56,Male,25-04-2024,High School
+385,Engineering,114303,66,No,5,52,Male,22-11-2018,Bachelor
+390,Engineering,103613,27,No,2,60,Female,20-02-2022,Doctorate
+395,Engineering,48668,81,No,3,59,Male,20-05-2016,Master
+397,Engineering,98409,98,No,2,26,Female,03-05-2023,High School
+401,Engineering,50175,102,Yes,2,35,Female,13-09-2019,Bachelor
+402,Engineering,52546,84,No,2,37,Male,08-06-2021,Master
+403,Engineering,71512,60,No,3,59,Male,28-05-2020,Master
+409,Engineering,119833,22,No,3,43,Male,09-10-2023,Bachelor
+410,Engineering,105427,96,Yes,5,43,Female,16-10-2024,Bachelor
+411,Engineering,71724,98,No,3,34,Female,31-01-2016,Master
+419,Engineering,101693,106,No,2,32,Female,28-07-2017,Bachelor
+425,Engineering,72666,39,No,2,55,Female,20-07-2017,Master
+427,Engineering,80039,23,No,5,35,Female,24-06-2023,Master
+431,Engineering,94434,40,No,3,51,Female,04-01-2021,Doctorate
+434,Engineering,99100,64,No,3,34,Female,05-04-2016,Bachelor
+436,Engineering,61759,22,No,4,23,Male,05-12-2019,Master
+443,Engineering,70576,86,No,3,38,Female,22-07-2024,Bachelor
+446,Engineering,44893,103,No,4,40,Female,28-06-2016,Master
+447,Engineering,56975,115,No,1,47,Male,16-08-2023,Bachelor
+453,Engineering,107139,74,No,4,37,Female,05-06-2024,Master
+460,Engineering,91980,51,No,3,28,Female,16-05-2022,Bachelor
+464,Engineering,92259,36,No,2,35,Male,04-01-2023,Doctorate
+465,Engineering,115025,45,No,2,22,Male,03-09-2023,Bachelor
+470,Engineering,44459,39,No,2,37,Male,19-09-2019,Bachelor
+471,Engineering,77456,12,No,4,48,Male,25-10-2019,Bachelor
+474,Engineering,97490,27,No,5,36,Male,31-10-2024,Master
+475,Engineering,54730,75,No,2,36,Male,08-05-2020,Bachelor
+480,Engineering,81435,61,No,3,51,Male,18-09-2019,Master
+483,Engineering,41814,62,Yes,2,23,Female,06-07-2021,Master
+484,Engineering,111344,101,No,2,24,Male,14-02-2019,Master
+490,Engineering,91611,73,No,3,51,Male,06-10-2015,Master
+492,Engineering,97203,53,No,3,36,Male,30-11-2024,Master
+493,Engineering,78167,112,No,3,46,Male,21-09-2015,Master
+495,Engineering,113340,51,No,4,34,Female,02-10-2021,Bachelor
+497,Engineering,43982,38,No,4,54,Male,11-01-2021,Bachelor
+499,Engineering,48078,56,Yes,3,38,Male,20-06-2019,Master
+500,Engineering,119638,108,No,1,41,Male,15-01-2016,Bachelor
+504,Engineering,108781,56,No,1,33,Male,31-12-2022,Bachelor
+507,Engineering,82445,114,No,2,51,Female,04-11-2020,Master
+508,Engineering,89757,73,Yes,4,37,Male,12-06-2017,High School
+511,Engineering,61326,115,No,4,30,Male,20-04-2020,Bachelor
+514,Engineering,58786,66,No,5,37,Female,16-12-2020,Master
+515,Engineering,103079,44,No,2,40,Male,07-12-2023,Bachelor
+516,Engineering,73667,43,Yes,3,54,Female,30-07-2020,Master
+517,Engineering,113567,20,No,4,48,Female,26-04-2015,Doctorate
+522,Engineering,93948,104,No,3,43,Male,27-03-2016,Bachelor
+527,Engineering,60792,107,No,1,57,Male,13-09-2020,Master
+530,Engineering,62681,104,No,1,23,Male,10-04-2023,Bachelor
+539,Engineering,53329,16,No,3,32,Male,03-04-2023,Bachelor
+550,Engineering,78222,38,Yes,3,25,Male,08-05-2016,Bachelor
+552,Engineering,53483,27,No,2,44,Female,14-01-2018,Bachelor
+559,Engineering,53475,103,No,2,60,Male,18-06-2016,Bachelor
+565,Engineering,73942,62,Yes,5,56,Female,14-03-2015,Bachelor
+568,Engineering,94306,23,Yes,1,59,Female,07-08-2019,Master
+570,Engineering,66963,75,No,4,52,Male,18-03-2022,Master
+571,Engineering,87843,111,No,4,58,Female,19-12-2019,Bachelor
+575,Engineering,69805,107,No,5,42,Male,27-09-2015,Bachelor
+576,Engineering,79296,119,No,2,48,Female,26-07-2015,Bachelor
+581,Engineering,51345,94,No,4,52,Male,12-09-2019,Master
+588,Engineering,65296,13,Yes,1,30,Female,17-05-2020,Doctorate
+595,Engineering,60154,89,No,2,25,Female,18-05-2021,High School
+596,Engineering,81205,44,No,3,55,Male,04-09-2023,High School
+606,Engineering,73068,101,No,2,36,Male,02-03-2019,Master
+608,Engineering,72675,73,Yes,3,28,Male,08-09-2023,Bachelor
+610,Engineering,45371,84,No,3,45,Male,13-11-2021,Master
+616,Engineering,94157,115,Yes,3,47,Female,13-11-2018,Master
+618,Engineering,101650,27,No,4,44,Female,13-06-2016,Master
+619,Engineering,118028,103,No,3,27,Female,08-05-2021,Bachelor
+620,Engineering,117740,80,No,4,52,Female,27-02-2020,Bachelor
+621,Engineering,89413,96,No,3,49,Male,02-07-2016,Bachelor
+623,Engineering,54015,48,No,2,28,Male,21-05-2022,Bachelor
+624,Engineering,48894,91,No,4,56,Male,28-08-2016,Bachelor
+628,Engineering,53679,60,No,4,56,Male,02-06-2015,Master
+629,Engineering,81028,33,No,3,23,Female,30-09-2022,Doctorate
+630,Engineering,41601,84,No,4,38,Female,04-07-2024,Bachelor
+633,Engineering,113203,71,No,4,40,Female,11-05-2015,Doctorate
+637,Engineering,60458,43,Yes,3,57,Female,23-04-2017,Master
+639,Engineering,45378,55,No,3,40,Female,17-07-2023,Bachelor
+647,Engineering,97309,21,Yes,1,23,Male,13-10-2022,Master
+648,Engineering,55408,49,No,4,23,Female,14-10-2019,Bachelor
+650,Engineering,69591,102,Yes,1,53,Female,13-08-2018,Bachelor
+669,Engineering,89678,102,Yes,3,53,Male,04-09-2022,Doctorate
+674,Engineering,51964,30,No,2,34,Female,15-06-2022,Doctorate
+677,Engineering,113052,36,No,3,25,Female,28-03-2021,Master
+684,Engineering,68692,116,No,2,54,Male,29-10-2023,Master
+686,Engineering,54948,12,No,1,42,Female,19-08-2021,Master
+689,Engineering,59389,14,No,3,40,Female,21-03-2015,Master
+694,Engineering,99107,50,No,5,32,Male,23-02-2022,Bachelor
+695,Engineering,89998,22,No,3,47,Female,29-08-2023,Bachelor
+699,Engineering,85120,19,Yes,3,42,Male,19-04-2015,Bachelor
+706,Engineering,54549,17,No,1,44,Male,27-09-2022,Master
+711,Engineering,58902,45,No,4,34,Male,28-11-2024,Master
+713,Engineering,82243,70,No,5,34,Female,11-03-2018,Master
+717,Engineering,49553,57,No,5,58,Female,27-12-2017,Master
+718,Engineering,46172,45,No,3,46,Female,28-11-2022,Bachelor
+721,Engineering,105765,92,No,4,22,Male,25-12-2018,Master
+723,Engineering,88478,38,No,2,26,Male,10-04-2015,Doctorate
+725,Engineering,57939,16,No,1,44,Male,02-11-2022,Doctorate
+726,Engineering,107931,114,No,3,24,Male,17-12-2019,High School
+731,Engineering,49668,105,Yes,2,28,Female,02-06-2024,High School
+732,Engineering,116416,27,No,3,22,Female,25-11-2018,Bachelor
+738,Engineering,117944,68,No,3,35,Female,07-04-2021,Bachelor
+740,Engineering,56552,85,No,5,42,Female,15-07-2024,Bachelor
+742,Engineering,102291,107,No,3,53,Male,30-08-2017,Doctorate
+744,Engineering,65869,84,Yes,3,32,Male,23-02-2015,Bachelor
+748,Engineering,45457,83,No,3,28,Male,07-05-2017,Master
+753,Engineering,103544,116,No,5,42,Male,11-11-2017,Bachelor
+757,Engineering,106875,62,Yes,3,28,Female,26-10-2019,Bachelor
+761,Engineering,65748,43,Yes,2,50,Male,31-07-2015,Master
+763,Engineering,103815,82,No,4,28,Female,28-04-2024,Bachelor
+764,Engineering,55290,99,Yes,4,28,Male,02-04-2019,Bachelor
+765,Engineering,105169,57,No,1,60,Male,21-07-2021,Master
+767,Engineering,92971,18,No,4,53,Male,05-02-2021,High School
+770,Engineering,106500,48,Yes,3,48,Male,31-12-2017,Bachelor
+775,Engineering,61492,36,No,2,31,Male,29-05-2023,High School
+778,Engineering,115458,99,No,3,54,Male,08-02-2024,Doctorate
+780,Engineering,106478,83,Yes,2,52,Female,14-09-2016,High School
+783,Engineering,55939,51,No,3,48,Male,13-02-2024,High School
+788,Engineering,65171,25,No,2,26,Female,14-06-2015,Bachelor
+789,Engineering,89084,71,No,2,31,Male,09-05-2020,High School
+795,Engineering,57819,57,No,4,54,Female,04-02-2017,High School
+798,Engineering,55071,68,No,2,23,Female,04-01-2016,Master
+800,Engineering,81143,51,No,4,24,Male,26-03-2022,Bachelor
+805,Engineering,40190,70,No,1,44,Female,12-04-2020,Bachelor
+807,Engineering,119574,65,Yes,3,49,Female,19-09-2024,Bachelor
+809,Engineering,116250,75,Yes,3,38,Male,13-04-2021,High School
+812,Engineering,101544,92,No,2,23,Female,03-04-2024,Bachelor
+817,Engineering,65646,76,Yes,4,24,Female,22-03-2024,Bachelor
+821,Engineering,52893,26,Yes,3,42,Female,16-10-2015,Doctorate
+830,Engineering,55646,62,No,4,50,Male,16-01-2024,Bachelor
+835,Engineering,76060,13,No,5,31,Female,03-01-2016,Bachelor
+838,Engineering,104816,62,No,5,36,Male,13-11-2016,Master
+841,Engineering,109588,91,No,4,46,Male,31-03-2024,Doctorate
+842,Engineering,81143,106,Yes,4,28,Female,25-11-2017,Bachelor
+843,Engineering,94129,29,Yes,2,30,Male,15-10-2016,Bachelor
+845,Engineering,93392,118,No,4,44,Male,31-07-2024,Doctorate
+846,Engineering,69039,38,No,1,58,Male,19-10-2020,Bachelor
+853,Engineering,71146,111,No,3,29,Female,05-04-2023,Bachelor
+854,Engineering,113203,22,No,3,39,Male,17-09-2023,Bachelor
+855,Engineering,60103,94,No,3,59,Female,02-12-2022,Bachelor
+860,Engineering,99771,18,No,2,33,Male,18-10-2021,Doctorate
+866,Engineering,40180,113,Yes,5,58,Female,29-04-2019,Master
+869,Engineering,109911,54,No,4,41,Female,01-08-2022,Bachelor
+872,Engineering,57410,103,No,2,55,Female,27-05-2016,Bachelor
+873,Engineering,54089,32,No,5,46,Male,21-05-2016,Master
+879,Engineering,82446,83,Yes,3,59,Male,22-01-2020,Bachelor
+880,Engineering,119341,18,Yes,3,32,Female,07-02-2020,Doctorate
+881,Engineering,83543,34,No,3,44,Male,05-03-2020,Bachelor
+883,Engineering,53474,55,Yes,3,31,Male,25-06-2017,Bachelor
+884,Engineering,97512,43,No,3,52,Male,12-02-2015,Bachelor
+888,Engineering,63790,46,Yes,3,54,Female,22-02-2017,Master
+889,Engineering,66528,45,No,5,46,Male,23-09-2016,Doctorate
+902,Engineering,89648,40,No,2,29,Female,04-11-2022,Bachelor
+904,Engineering,73762,109,No,2,30,Female,08-02-2015,Master
+906,Engineering,114069,24,No,2,29,Male,25-05-2016,Master
+907,Engineering,47494,47,No,3,53,Female,13-05-2023,Master
+909,Engineering,88721,78,No,5,35,Male,11-03-2023,Bachelor
+916,Engineering,93118,68,No,3,60,Male,24-03-2024,High School
+922,Engineering,77743,57,No,1,58,Female,17-12-2020,Master
+925,Engineering,117225,107,No,1,46,Female,15-02-2024,High School
+926,Engineering,62928,61,No,3,37,Male,16-10-2019,Master
+928,Engineering,99412,115,No,4,49,Female,24-02-2019,Master
+931,Engineering,107025,21,No,3,42,Male,03-03-2016,Doctorate
+937,Engineering,57006,41,No,4,56,Male,09-01-2024,Bachelor
+942,Engineering,42100,22,No,4,30,Male,20-12-2017,Doctorate
+948,Engineering,45116,68,No,1,47,Male,27-02-2020,Doctorate
+950,Engineering,108431,76,No,4,56,Male,29-09-2018,Bachelor
+954,Engineering,81975,14,No,2,22,Female,06-02-2024,High School
+956,Engineering,113510,73,No,5,52,Female,11-02-2017,Bachelor
+961,Engineering,58227,73,No,3,42,Female,27-07-2016,Doctorate
+963,Engineering,105266,77,No,2,58,Female,27-12-2015,Master
+964,Engineering,96534,40,No,1,49,Female,17-02-2017,High School
+966,Engineering,84846,20,No,4,32,Female,20-12-2020,Bachelor
+984,Engineering,89141,26,No,5,25,Female,22-01-2021,Bachelor
+985,Engineering,112912,89,No,5,26,Male,08-02-2019,Bachelor
+986,Engineering,41536,65,No,2,57,Male,12-09-2023,Master
+988,Engineering,42034,108,No,1,28,Female,27-01-2023,Bachelor
+990,Engineering,85795,23,Yes,5,35,Female,07-10-2015,Master
+996,Engineering,78355,95,No,5,31,Female,16-03-2015,Master
+997,Engineering,60154,28,No,4,47,Female,25-12-2018,Master

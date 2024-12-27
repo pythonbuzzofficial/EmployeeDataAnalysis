@@ -1,0 +1,199 @@
+EmployeeID,Department,Salary,Tenure,Attrition,PerformanceRating,Age,Gender,JoiningDate,EducationLevel
+1,Operations,67229,0,No,4,22,Male,30-03-2019,Bachelor
+2,Operations,69567,55,Yes,5,27,Female,14-07-2024,Bachelor
+3,Operations,83543,6,Yes,3,46,Female,26-08-2022,Bachelor
+4,Operations,76684,21,No,1,43,Male,15-12-2015,Bachelor
+5,Operations,98040,23,Yes,4,48,Male,24-03-2018,Bachelor
+6,Operations,48967,2,Yes,5,29,Female,03-07-2024,Bachelor
+7,Operations,67448,18,Yes,2,56,Male,24-02-2019,Bachelor
+8,Operations,94991,51,No,5,23,Male,18-08-2024,Master
+9,Operations,57742,38,Yes,4,38,Male,04-01-2023,Master
+10,Operations,66605,52,No,1,22,Male,20-11-2019,Master
+11,Operations,54029,47,Yes,4,58,Female,15-10-2019,Doctorate
+12,Operations,61259,53,Yes,2,56,Male,05-08-2021,High School
+13,Operations,61667,58,No,1,38,Male,05-03-2020,Doctorate
+14,Operations,46049,49,Yes,2,46,Female,12-03-2015,Bachelor
+15,Operations,42938,1,No,4,27,Male,12-03-2021,Master
+16,Operations,95886,42,Yes,2,47,Female,29-06-2018,Bachelor
+17,Operations,82337,43,Yes,1,58,Male,28-05-2016,Bachelor
+18,Operations,49919,13,No,2,38,Female,02-06-2022,Doctorate
+19,Operations,43932,50,Yes,1,36,Female,24-06-2016,Bachelor
+20,Operations,91810,16,Yes,2,49,Male,27-01-2021,Master
+21,Operations,72016,46,No,2,41,Female,23-05-2022,Bachelor
+22,Operations,65361,8,Yes,4,28,Female,14-12-2017,Bachelor
+23,Operations,45045,7,No,5,28,Male,11-04-2023,Bachelor
+24,Operations,45324,34,Yes,2,54,Female,03-04-2022,High School
+25,Operations,90426,52,Yes,2,48,Female,25-06-2016,Master
+26,Operations,92084,27,Yes,4,45,Male,12-04-2020,High School
+27,Operations,44830,56,Yes,5,43,Female,14-08-2016,Bachelor
+28,Operations,60069,52,No,1,47,Female,06-11-2015,Master
+29,Operations,45589,6,No,5,53,Male,21-08-2023,Master
+30,Operations,43905,28,Yes,1,41,Female,15-03-2016,Master
+31,Operations,94728,0,No,2,49,Male,28-07-2016,Bachelor
+32,Operations,59118,34,Yes,2,56,Male,16-04-2015,Bachelor
+33,Operations,92800,38,No,5,30,Male,05-09-2016,High School
+34,Operations,50017,53,Yes,2,29,Male,14-09-2017,Bachelor
+35,Operations,94599,54,Yes,4,37,Female,17-04-2020,Bachelor
+36,Operations,68180,31,No,5,41,Female,29-05-2020,Doctorate
+37,Operations,83058,14,No,4,25,Male,01-11-2016,Master
+38,Operations,54869,27,Yes,3,53,Female,03-09-2022,Master
+39,Operations,65210,5,Yes,1,55,Male,11-07-2019,Master
+40,Operations,57748,11,Yes,3,53,Female,07-04-2022,Doctorate
+41,Operations,46826,31,Yes,2,23,Male,09-11-2020,Master
+42,Operations,75052,29,Yes,2,40,Female,09-12-2022,Master
+43,Operations,54256,31,Yes,4,26,Male,18-02-2017,Bachelor
+44,Operations,64758,20,No,3,23,Female,26-01-2019,Master
+45,Operations,49857,38,No,5,38,Male,09-03-2017,Bachelor
+46,Operations,47882,42,Yes,5,33,Male,29-03-2022,Bachelor
+47,Operations,67664,13,No,3,41,Female,30-12-2016,High School
+48,Operations,96841,58,Yes,3,37,Male,19-06-2024,Doctorate
+49,Operations,98953,6,No,5,28,Female,04-01-2021,Master
+50,Operations,68070,15,Yes,4,40,Female,24-11-2020,Master
+51,Operations,80257,32,No,3,40,Male,28-09-2022,Bachelor
+52,Operations,40669,47,Yes,3,52,Male,21-11-2015,Doctorate
+53,Operations,64052,9,No,3,52,Male,15-12-2024,Bachelor
+54,Operations,40136,5,Yes,2,25,Male,08-08-2017,Master
+55,Operations,98713,6,No,3,37,Female,09-12-2022,Bachelor
+56,Operations,92996,35,Yes,3,51,Female,15-11-2015,Master
+57,Operations,57689,16,Yes,3,30,Male,07-07-2022,High School
+58,Operations,83282,31,No,4,47,Male,04-07-2020,Bachelor
+59,Operations,72325,51,No,3,46,Female,28-08-2019,Doctorate
+60,Operations,74563,23,Yes,4,57,Female,01-09-2024,High School
+61,Operations,83143,24,Yes,3,33,Male,22-05-2015,Bachelor
+62,Operations,92437,5,Yes,5,48,Male,09-02-2017,Bachelor
+63,Operations,99188,12,No,4,58,Male,13-12-2015,Bachelor
+64,Operations,77694,47,Yes,1,30,Male,20-04-2022,Bachelor
+65,Operations,70161,52,No,4,55,Male,27-10-2020,Master
+66,Operations,45829,47,Yes,1,31,Male,14-09-2015,Master
+67,Operations,48173,8,Yes,5,33,Male,27-08-2021,High School
+68,Operations,42680,16,No,3,25,Male,30-03-2021,Bachelor
+69,Operations,57354,16,No,3,32,Male,11-08-2020,Master
+70,Operations,86523,23,No,4,32,Female,07-07-2020,Bachelor
+71,Operations,79537,13,No,1,23,Female,14-09-2022,Doctorate
+72,Operations,58324,13,Yes,5,60,Female,14-11-2024,Master
+73,Operations,75880,57,Yes,1,43,Female,31-05-2019,Bachelor
+74,Operations,96012,39,Yes,3,47,Male,23-12-2014,Bachelor
+75,Operations,71082,57,No,5,30,Female,18-05-2023,Master
+76,Operations,91676,35,No,3,36,Female,27-09-2022,Master
+77,Operations,42717,60,Yes,5,49,Male,28-04-2016,Bachelor
+78,Operations,48041,40,Yes,3,52,Female,17-11-2019,Bachelor
+79,Operations,69755,29,Yes,5,32,Female,12-03-2021,Bachelor
+80,Operations,92908,18,Yes,1,34,Female,11-05-2023,Doctorate
+81,Operations,62055,26,Yes,1,40,Female,13-09-2024,Master
+82,Operations,53662,20,No,1,24,Male,23-04-2023,Doctorate
+83,Operations,57467,28,Yes,1,60,Female,25-05-2018,Bachelor
+84,Operations,62243,55,No,5,48,Female,21-11-2024,Bachelor
+85,Operations,47098,13,No,5,60,Female,13-04-2016,Bachelor
+86,Operations,50542,13,No,3,40,Male,28-10-2015,Bachelor
+87,Operations,48675,31,Yes,4,36,Female,18-05-2024,Bachelor
+88,Operations,57676,12,Yes,4,43,Male,11-09-2017,Bachelor
+89,Operations,92583,7,Yes,2,23,Female,02-10-2019,Bachelor
+90,Operations,74796,48,No,2,28,Male,16-12-2018,High School
+91,Operations,53091,16,No,3,54,Female,26-12-2016,Bachelor
+92,Operations,57827,51,No,4,57,Female,27-09-2016,Bachelor
+93,Operations,57579,12,Yes,5,37,Female,24-10-2015,Master
+94,Operations,88256,3,No,5,28,Male,17-12-2019,High School
+95,Operations,96152,31,Yes,4,30,Male,17-12-2020,Master
+96,Operations,65264,26,Yes,1,29,Male,16-03-2020,Master
+97,Operations,89313,2,Yes,5,35,Female,24-02-2015,Doctorate
+98,Operations,44925,6,No,5,58,Male,12-02-2018,Bachelor
+99,Operations,40235,12,Yes,3,29,Male,23-01-2021,Doctorate
+100,Operations,43573,38,No,3,46,Female,11-10-2022,Bachelor
+101,Operations,99379,57,Yes,3,28,Male,11-01-2022,Master
+102,Operations,86459,33,No,2,59,Male,25-08-2023,Master
+103,Operations,67443,14,Yes,1,54,Male,19-01-2023,Master
+104,Operations,75821,21,No,4,35,Male,27-08-2023,Doctorate
+105,Operations,95282,17,No,3,27,Male,10-10-2023,High School
+106,Operations,97277,26,Yes,2,25,Female,24-01-2018,Bachelor
+107,Operations,67972,0,Yes,1,28,Female,21-11-2021,Doctorate
+108,Operations,62613,42,Yes,1,26,Male,30-01-2017,Master
+109,Operations,42289,59,Yes,4,41,Male,28-04-2024,High School
+110,Operations,42897,33,Yes,3,58,Male,30-07-2016,Bachelor
+111,Operations,80056,0,No,5,44,Female,02-05-2019,Bachelor
+112,Operations,54850,39,No,4,50,Female,19-02-2019,Master
+113,Operations,89418,0,No,2,57,Male,14-05-2020,Bachelor
+114,Operations,52649,32,Yes,4,31,Female,20-07-2024,Master
+115,Operations,69060,34,Yes,5,58,Male,15-01-2016,Doctorate
+116,Operations,45873,38,Yes,3,22,Male,17-02-2022,Doctorate
+117,Operations,50847,60,Yes,2,56,Male,25-11-2015,Master
+118,Operations,74011,27,Yes,2,32,Male,08-03-2024,Bachelor
+119,Operations,74488,2,Yes,5,55,Female,20-03-2021,Bachelor
+120,Operations,49020,3,Yes,5,36,Male,30-01-2021,Master
+121,Operations,73050,55,No,4,35,Male,04-03-2022,Master
+122,Operations,48649,32,Yes,5,22,Male,01-10-2017,Bachelor
+123,Operations,66941,42,No,2,51,Male,18-03-2018,Bachelor
+124,Operations,46328,20,No,5,45,Male,31-10-2020,Bachelor
+125,Operations,71667,37,No,2,45,Male,22-03-2019,Bachelor
+126,Operations,63539,25,No,5,42,Male,02-10-2022,Bachelor
+127,Operations,92772,6,Yes,1,42,Female,11-07-2021,Master
+128,Operations,54629,6,No,4,22,Male,04-04-2020,Master
+129,Operations,72169,45,No,5,47,Female,08-05-2024,Bachelor
+130,Operations,72878,12,Yes,5,40,Female,19-10-2015,High School
+131,Operations,54791,21,No,5,27,Female,09-04-2018,Master
+132,Operations,73389,50,No,3,36,Female,26-12-2016,Bachelor
+133,Operations,57369,54,Yes,3,31,Female,16-09-2019,Master
+134,Operations,64352,9,Yes,5,59,Male,04-06-2024,Bachelor
+135,Operations,52605,22,No,1,34,Male,21-03-2017,Bachelor
+136,Operations,76754,10,No,4,53,Male,25-01-2019,Bachelor
+137,Operations,97647,24,Yes,1,48,Female,18-03-2024,Bachelor
+138,Operations,88052,32,No,3,60,Male,11-11-2021,High School
+139,Operations,43837,59,No,1,42,Female,15-03-2021,Bachelor
+140,Operations,57568,46,No,2,42,Male,13-08-2021,Bachelor
+141,Operations,69073,19,Yes,5,44,Male,19-09-2017,High School
+142,Operations,98843,20,No,2,46,Male,25-07-2021,Bachelor
+143,Operations,42810,17,Yes,4,49,Male,05-06-2024,Master
+144,Operations,49841,10,Yes,1,37,Female,16-06-2022,Bachelor
+145,Operations,72062,50,Yes,4,28,Female,08-10-2018,Master
+146,Operations,54930,8,No,3,58,Male,06-12-2021,High School
+147,Operations,49487,43,Yes,3,27,Male,22-12-2024,Doctorate
+148,Operations,97871,30,Yes,4,57,Male,01-09-2018,Bachelor
+149,Operations,67800,43,No,1,38,Male,18-12-2021,Bachelor
+150,Operations,94079,3,No,1,60,Male,13-05-2022,Master
+151,Operations,53146,2,Yes,4,35,Female,03-10-2021,Master
+152,Operations,50503,11,No,3,46,Male,23-08-2022,Master
+153,Operations,52351,10,Yes,4,36,Male,21-02-2020,Master
+154,Operations,99721,42,No,2,55,Male,31-01-2020,Master
+155,Operations,87443,4,Yes,5,36,Female,29-09-2021,Doctorate
+156,Operations,53745,48,Yes,1,24,Male,13-11-2016,Bachelor
+157,Operations,78137,9,No,4,27,Male,12-06-2016,Bachelor
+158,Operations,51003,51,No,5,60,Female,16-06-2019,Master
+159,Operations,88387,16,No,2,35,Female,28-07-2023,High School
+160,Operations,86267,38,No,5,42,Female,14-01-2019,Master
+161,Operations,93880,46,No,4,55,Female,09-03-2023,Bachelor
+162,Operations,83052,30,Yes,1,59,Male,07-04-2019,High School
+163,Operations,70021,58,Yes,2,31,Female,24-09-2018,High School
+164,Operations,85128,23,Yes,3,41,Female,31-10-2019,Bachelor
+165,Operations,43383,23,No,5,31,Male,01-06-2015,Doctorate
+166,Operations,76939,30,No,1,37,Male,25-08-2019,High School
+167,Operations,41954,12,No,1,29,Female,15-05-2020,Master
+168,Operations,50197,45,Yes,2,41,Female,18-01-2019,Master
+169,Operations,41680,48,Yes,5,57,Female,28-04-2018,Bachelor
+170,Operations,82119,28,Yes,1,30,Male,07-08-2022,Master
+171,Operations,71428,44,No,3,44,Male,03-12-2016,Bachelor
+172,Operations,43243,39,No,5,36,Female,02-07-2018,Bachelor
+173,Operations,74323,37,No,2,27,Female,12-10-2022,Doctorate
+174,Operations,67132,48,Yes,3,46,Male,24-05-2021,Master
+175,Operations,60919,37,Yes,1,48,Female,16-01-2022,High School
+176,Operations,94829,52,No,1,60,Male,01-09-2022,High School
+177,Operations,98681,28,Yes,1,60,Female,24-02-2020,Bachelor
+178,Operations,52946,35,Yes,1,27,Male,19-04-2015,Bachelor
+179,Operations,69518,45,Yes,5,57,Male,03-08-2022,Bachelor
+180,Operations,48428,60,No,2,50,Female,11-08-2024,Master
+181,Operations,45848,52,Yes,4,27,Male,17-02-2016,Doctorate
+182,Operations,47774,14,Yes,3,38,Male,26-03-2018,Bachelor
+183,Operations,55474,41,Yes,5,22,Female,03-09-2024,High School
+184,Operations,95273,38,No,2,31,Male,07-11-2019,Bachelor
+185,Operations,40161,33,No,3,52,Male,23-10-2024,Doctorate
+186,Operations,59483,24,No,1,59,Male,01-08-2015,Bachelor
+187,Operations,65229,19,Yes,4,54,Female,27-04-2023,Bachelor
+188,Operations,78298,29,Yes,2,37,Male,05-03-2017,Bachelor
+189,Operations,87370,27,Yes,4,41,Male,30-05-2016,High School
+190,Operations,91210,59,No,5,23,Male,27-11-2022,Bachelor
+191,Operations,98976,9,No,4,32,Male,14-04-2015,Master
+192,Operations,89224,32,No,5,48,Female,06-04-2024,Bachelor
+193,Operations,77208,30,No,5,29,Male,10-02-2020,Bachelor
+194,Operations,58927,41,Yes,4,38,Female,07-08-2020,Bachelor
+195,Operations,56271,28,Yes,4,54,Female,10-03-2018,Bachelor
+196,Operations,77414,53,No,5,28,Male,25-08-2023,Bachelor
+197,Operations,72223,31,Yes,1,28,Female,28-06-2023,Doctorate
+198,Operations,64640,19,Yes,3,23,Male,21-01-2021,Bachelor
